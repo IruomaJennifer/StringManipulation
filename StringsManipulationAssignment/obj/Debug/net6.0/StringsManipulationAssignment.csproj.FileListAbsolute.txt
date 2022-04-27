@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\bin\Debug\net6.0\StringsManipulationAssignment.exe
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\bin\Debug\net6.0\StringsManipulationAssignment.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\bin\Debug\net6.0\StringsManipulationAssignment.runtimeconfig.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\bin\Debug\net6.0\StringsManipulationAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\bin\Debug\net6.0\StringsManipulationAssignment.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\refint\StringsManipulationAssignment.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\StringsManipulationAssignment.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\StringsManipulationAssignment\StringsManipulationAssignment\obj\Debug\net6.0\ref\StringsManipulationAssignment.dll
